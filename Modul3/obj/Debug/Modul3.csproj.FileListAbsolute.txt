@@ -1,0 +1,11 @@
+D:\Semester_8\Asprak\Konstruksi_PL\Week_1\Modul3\Modul3\bin\Debug\Modul3.exe.config
+D:\Semester_8\Asprak\Konstruksi_PL\Week_1\Modul3\Modul3\bin\Debug\Modul3.exe
+D:\Semester_8\Asprak\Konstruksi_PL\Week_1\Modul3\Modul3\bin\Debug\Modul3.pdb
+D:\Semester_8\Asprak\Konstruksi_PL\Week_1\Modul3\Modul3\obj\Debug\Modul3.csproj.AssemblyReference.cache
+D:\Semester_8\Asprak\Konstruksi_PL\Week_1\Modul3\Modul3\obj\Debug\Modul3.Form1.resources
+D:\Semester_8\Asprak\Konstruksi_PL\Week_1\Modul3\Modul3\obj\Debug\Modul3.Properties.Resources.resources
+D:\Semester_8\Asprak\Konstruksi_PL\Week_1\Modul3\Modul3\obj\Debug\Modul3.csproj.GenerateResource.cache
+D:\Semester_8\Asprak\Konstruksi_PL\Week_1\Modul3\Modul3\obj\Debug\Modul3.csproj.CoreCompileInputs.cache
+D:\Semester_8\Asprak\Konstruksi_PL\Week_1\Modul3\Modul3\obj\Debug\Modul3.exe
+D:\Semester_8\Asprak\Konstruksi_PL\Week_1\Modul3\Modul3\obj\Debug\Modul3.pdb
+D:\Semester_8\Asprak\Konstruksi_PL\Week_1\Modul3\Modul3\obj\Debug\Modul3.exe.config
