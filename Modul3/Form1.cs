@@ -126,6 +126,11 @@ namespace Modul3
 
         }
 
+        private void button11_Click_2(object sender, EventArgs e)
+        {
+
+        }
+
         private void buttonClear_Click(object sender, EventArgs e)
         {
             textBox1.Clear();
